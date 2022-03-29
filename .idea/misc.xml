@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/drawable-v24/shape_bordeer_rounded_black.xml" value="0.1535" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/drawable-v24/shape_bordeer_rounded_pink.xml" value="0.1535" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/drawable-v24/shape_bordeer_rounded_white.xml" value="0.1535" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/drawable/shape_bordeer_rounded.xml" value="0.1535" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/drawable/shape_oval.xml" value="0.2015" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/drawable/view_rounded.xml" value="0.1535" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/layout/item_feed_favorite.xml" value="0.2" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/layout/item_today_deal.xml" value="0.4" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/M5_L5EbayUI/app/src/main/res/layout/item_winter_essential.xml" value="0.19927536231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
